@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+---
 
-## Getting Started
+# SmartHealth Board Overview
 
-First, run the development server:
+We use **one Scrum board** for the entire project lifecycle—from analysis to delivery.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Board Name:** `SmartHealth – Agile Project`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Column Flow (left to right)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. ## 📌 Welcome & Onboarding  
+   Project vision, team norms, and board guide (cards are static references).
 
-## Learn More
+2. ## 📋 Needs Analysis  
+   Stakeholder matrix, MoSCoW/Kano prioritisation, and initial backlog user stories.  
+   *Purpose: understand and structure what to build.*
 
-To learn more about Next.js, take a look at the following resources:
+3. ## 📈 Opportunity Study  
+   Strategic, financial, and technical viability checks.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. ## ⚠️ Risk Management  
+   Risk register, SWOT, PESTEL, and mitigation plans.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+5. ## ✅ Décision finale  
+   Go/No‑Go approval gate before development starts.
 
-## Deploy on Vercel
+6. ## 📦 Backlog (Future)  
+   Uncommitted product backlog items (icebox, future sprints).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+7. ## 📐 Project Initiation – Planning  
+   Scheduling artefacts like the PERT diagram and time planning.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+8. ## 🎯 Sprint Backlog  
+   Committed user stories & tasks for the current sprint. Sprint Goal at the top.
+
+9. ## ⏭️ Next Sprint  
+   Items pre‑refined for the upcoming sprint.
+
+10. ## 🧑‍💻 Dev → 🔍 Code Review → 🧪 Testing  
+    Work in progress flows through these three columns.
+
+11. ## 🏁 Done (Sprint DATE)  
+    Completed work meeting the Definition of Done; archived after sprint review.
+
+---
+
+## Key Practices
+
+- **Sprints:** Fixed length (1‑2 weeks), same start/end day, no scope changes mid‑sprint.
+- **Labels:** `🚫 Blocked` (3), `⚡ Expedite` (1), `🐛 Bug` (4).
+- **Power‑Ups:** Agile Tools (story points), GitHub, Custom Fields (location).
+- **Templates:** Definition of Ready & Definition of Done checklists available.
+
+---
+
+*Everything the team needs is on the board – this overview just explains the flow.*
+
+---
