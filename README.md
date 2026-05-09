@@ -1,60 +1,38 @@
----
+# 🏥 SmartHealth Command Center v8.1
 
-# SmartHealth Board Overview
+### **The Elite Medical Project Management Interface**
 
-We use **one Scrum board** for the entire project lifecycle—from analysis to delivery.
-
-**Board Name:** `SmartHealth – Agile Project`
+SmartHealth is a high-performance, proprietary command center designed for the next generation of HealthTech engineering. It transforms traditional agile workflows into a data-dense, industrial-grade workspace optimized for strategic diagnostics and technical project steering.
 
 ---
 
-## Column Flow (left to right)
+## 🚀 Vision & Innovation
+*   **Neural Workspace**: A distraction-free, high-density dashboard inspired by modern command centers.
+*   **Heuristic Asset Mapping (v8.1)**: Automatic visual intelligence that pairs operational nodes with high-fidelity medical and strategic assets.
+*   **Strategic Data Density**: Integrated financial indicators (ROI, NPV), risk matrices (AI Diagnostics, Security), and Gantt roadmaps.
 
-1. ## 📌 Welcome & Onboarding  
-   Project vision, team norms, and board guide (cards are static references).
+## 🛠 Technical Stack
+*   **Frontend**: Next.js 16.2 (Turbopack) with React 19.
+*   **Animation**: Framer Motion for ultra-smooth micro-animations and transitions.
+*   **Data Core**: Supabase Cloud Sync for real-time persistence and multi-device alignment.
+*   **UI System**: Vanilla CSS with custom Tailwind utilities, enforcing an "Industrial Dark" glassmorphic aesthetic.
 
-2. ## 📋 Needs Analysis  
-   Stakeholder matrix, MoSCoW/Kano prioritisation, and initial backlog user stories.  
-   *Purpose: understand and structure what to build.*
+## 📊 Strategic Intelligence
+The dashboard is pre-configured with a full medical startup lifecycle:
+*   **Phase 1: Discovery**: Stakeholder analysis, SWOT/PESTEL, and Financial Opportunity Studies.
+*   **Phase 2: Planning**: Technical WBS, PERT diagrams, and AI Feature Roadmaps.
+*   **Phase 3: Operational**: Active Sprints, AI prescription processing (MVP), and IoT integration tracking.
 
-3. ## 📈 Opportunity Study  
-   Strategic, financial, and technical viability checks.
-
-4. ## ⚠️ Risk Management  
-   Risk register, SWOT, PESTEL, and mitigation plans.
-
-5. ## ✅ Décision finale  
-   Go/No‑Go approval gate before development starts.
-
-6. ## 📦 Backlog (Future)  
-   Uncommitted product backlog items (icebox, future sprints).
-
-7. ## 📐 Project Initiation – Planning  
-   Scheduling artefacts like the PERT diagram and time planning.
-
-8. ## 🎯 Sprint Backlog  
-   Committed user stories & tasks for the current sprint. Sprint Goal at the top.
-
-9. ## ⏭️ Next Sprint  
-   Items pre‑refined for the upcoming sprint.
-
-10. ## 🧑‍💻 Dev → 🔍 Code Review → 🧪 Testing  
-    Work in progress flows through these three columns.
-
-11. ## 🏁 Done (Sprint DATE)  
-    Completed work meeting the Definition of Done; archived after sprint review.
+## 📦 Deployment
+*   **Backend**: Synchronized with Supabase via `npm run sync:cloud`.
+*   **Frontend**: Production-ready builds via `npm run build`.
+*   **Hosting**: Optimized for Vercel deployment.
 
 ---
 
-## Key Practices
+### **Engineering Principles**
+1.  **Node Integrity**: Every card is a data node with specific markdown intelligence.
+2.  **Visual Command**: Primary-cover-only architecture for maximum cognitive throughput.
+3.  **Stability First**: Built-in stability index calculation for agile flow monitoring.
 
-- **Sprints:** Fixed length (1‑2 weeks), same start/end day, no scope changes mid‑sprint.
-- **Labels:** `🚫 Blocked` (3), `⚡ Expedite` (1), `🐛 Bug` (4).
-- **Power‑Ups:** Agile Tools (story points), GitHub, Custom Fields (location).
-- **Templates:** Definition of Ready & Definition of Done checklists available.
-
----
-
-*Everything the team needs is on the board – this overview just explains the flow.*
-
----
+**Proprietary Software — Smart Health Engineering © 2026**
