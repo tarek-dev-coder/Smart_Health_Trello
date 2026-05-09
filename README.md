@@ -1,20 +1,22 @@
-# 🏥 SmartHealth Command Center v8.1
+# 🏥 SmartHealth Command Center v1.6-PRO
 
 ### **The Elite Medical Project Management Interface**
 
-SmartHealth is a high-performance, proprietary command center designed for the next generation of HealthTech engineering. It transforms traditional agile workflows into a data-dense, industrial-grade workspace optimized for strategic diagnostics and technical project steering.
+SmartHealth is a high-performance, proprietary command center designed for the next generation of HealthTech engineering. It transforms traditional agile workflows into a data-dense, industrial-grade **Executive Preview Workspace** optimized for strategic showcase and technical project steering.
 
 ---
 
 ## 🚀 Vision & Innovation
-*   **Neural Workspace**: A distraction-free, high-density dashboard inspired by modern command centers.
-*   **Heuristic Asset Mapping (v8.1)**: Automatic visual intelligence that pairs operational nodes with high-fidelity medical and strategic assets.
-*   **Strategic Data Density**: Integrated financial indicators (ROI, NPV), risk matrices (AI Diagnostics, Security), and Gantt roadmaps.
+*   **Executive Preview Mode**: A fully hardened, read-only showcase environment that prevents accidental mutations while delivering maximum impact.
+*   **Ultra-Responsive Engine**: Graceful architectural scaling—from intelligent vertical list stacking on mobile to edge-to-edge horizontal flow on massive desktop displays.
+*   **GitHub-Style Markdown Renderer**: Custom, self-contained `.smart-readme` CSS engine built directly into the core, powering beautiful tables, rich typography, and macOS-style image frames without external typography bloat.
+*   **Heuristic Asset Mapping (v9.0)**: Automatic visual intelligence that pairs operational nodes with high-fidelity medical and strategic assets dynamically.
+*   **Live Telemetry**: Integrated Stability and Integrity indicators pushed directly into the central command topbar.
 
 ## 🛠 Technical Stack
 *   **Frontend**: Next.js 16.2 (Turbopack) with React 19.
-*   **Animation**: Framer Motion for ultra-smooth micro-animations and transitions.
-*   **Data Core**: Supabase Cloud Sync for real-time persistence and multi-device alignment.
+*   **Animation**: Framer Motion for ultra-smooth micro-animations, command palettes, and modal transitions.
+*   **Data Core**: Strict `board.json` JSON parsing acting as an immutable local-first CMS.
 *   **UI System**: Vanilla CSS with custom Tailwind utilities, enforcing an "Industrial Dark" glassmorphic aesthetic.
 
 ## 📊 Strategic Intelligence
@@ -24,15 +26,14 @@ The dashboard is pre-configured with a full medical startup lifecycle:
 *   **Phase 3: Operational**: Active Sprints, AI prescription processing (MVP), and IoT integration tracking.
 
 ## 📦 Deployment
-*   **Backend**: Synchronized with Supabase via `npm run sync:cloud`.
-*   **Frontend**: Production-ready builds via `npm run build`.
-*   **Hosting**: Optimized for Vercel deployment.
+*   **Production Deployment**: [Vercel Deployment](https://smart-health-phi.vercel.app)
+*   **Build System**: Optimized zero-error Next.js static builds (`npm run build`).
 
 ---
 
 ### **Engineering Principles**
-1.  **Node Integrity**: Every card is a data node with specific markdown intelligence.
+1.  **Node Integrity**: Every card is a data node serving deeply nested markdown intelligence.
 2.  **Visual Command**: Primary-cover-only architecture for maximum cognitive throughput.
-3.  **Stability First**: Built-in stability index calculation for agile flow monitoring.
+3.  **Stability First**: Built-in algorithmic data sorting and strict rendering heuristics.
 
 **Proprietary Software — Smart Health Engineering © 2026**
